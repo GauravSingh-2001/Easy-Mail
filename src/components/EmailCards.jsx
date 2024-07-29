@@ -15,7 +15,7 @@ const EmailCard = ({ email, refreshEmails }) => {
 
   const updateEmailTag = async (action, tag, setState) => {
     try {
-      const response = await fetch(`https://easymail-0cfn.onrender.com/api/${action}`, {
+      const response = await fetch(`https://localhost:5000/api/${action}`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -44,7 +44,7 @@ const EmailCard = ({ email, refreshEmails }) => {
 
   const deletePermanently = async () => {
     try {
-      const response = await fetch(`https://easymail-0cfn.onrender.com/api/emails/${email._id}`, {
+      const response = await fetch(`https://localhost:5000/api/emails/${email._id}`, {
         method: 'DELETE',
       });
       if (!response.ok) {
