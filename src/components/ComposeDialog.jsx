@@ -24,7 +24,7 @@ const ComposeDialog = ({ isOpen, onClose, draft }) => {
 
   const fetchContacts = async () => {
     try {
-      const response = await fetch(`https://localhost:5000/api/savedEmails`);
+      const response = await fetch(`/api/savedEmails`);
       const data = await response.json();
       setContacts(data);
     } catch (error) {
@@ -47,7 +47,7 @@ const ComposeDialog = ({ isOpen, onClose, draft }) => {
     };
 
     try {
-      const response = await fetch(`https://localhost:5000/api/sendmail`, {
+      const response = await fetch(`/api/sendmail`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -76,7 +76,7 @@ const ComposeDialog = ({ isOpen, onClose, draft }) => {
     };
 
     try {
-      const response = await fetch(`https://localhost:5000/api/emails/draft`, {
+      const response = await fetch(`/api/emails/draft`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -103,7 +103,7 @@ const ComposeDialog = ({ isOpen, onClose, draft }) => {
     } else {
       if (draft && draft._id) {
         try {
-          const response = await fetch(`https://localhost:5000/api/emails/${draft._id}`, {
+          const response = await fetch(`/api/emails/${draft._id}`, {
             method: 'DELETE',
           });
           if (!response.ok) {
