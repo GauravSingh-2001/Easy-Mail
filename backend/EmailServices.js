@@ -1,6 +1,6 @@
 export const FetchEmails = async (category) => {
     try {
-      const response = await fetch(`https://localhost:5000/api/emails/${category}`);
+      const response = await fetch(`/api/emails/${category}`);
       if (!response.ok) {
         throw new Error(`Failed to fetch ${category} emails`);
       }
