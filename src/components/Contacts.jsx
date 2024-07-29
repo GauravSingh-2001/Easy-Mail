@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_URL = `https://easymail-0cfn.onrender.com/api`;
+const API_URL = `https://localhost:5000/api`;
 
 const ContactPage = () => {
   const [contacts, setContacts] = useState([]);
