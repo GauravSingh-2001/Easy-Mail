@@ -12,7 +12,7 @@ const Drafts = () => {
 
   const fetchDrafts = async () => {
     try {
-      const response = await axios.get(`https://localhost:5000/api/emails/draft`);
+      const response = await axios.get(`/api/emails/draft`);
       setDrafts(response.data);
     } catch (error) {
       console.error('Failed to fetch drafts:', error);
