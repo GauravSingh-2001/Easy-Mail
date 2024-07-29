@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_URL = `https://localhost:5000/api`;
+const API_URL = `/api`;
 
 const ContactPage = () => {
   const [contacts, setContacts] = useState([]);
