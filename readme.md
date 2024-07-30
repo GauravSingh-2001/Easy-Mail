@@ -12,14 +12,14 @@ The Easy Mail is a web-based tool designed to handle email functionalities secur
   
 ## Screenshots
 ![Inbox](/public/assets/Screenshot(224).png)
-![mail preview](https://github.com/GauravSingh-2001/EasyMail/assets/105958066/e4784825-eae2-491e-9067-ba9256ebbda3)
-![Sent Mail](https://github.com/GauravSingh-2001/EasyMail/assets/105958066/7ef2f5aa-bd26-4227-a92a-11c1d39ac8c2)
-![Sent Mail Preview](https://github.com/GauravSingh-2001/EasyMail/assets/105958066/3a012aa3-a1a2-419e-98ca-d49a1a968993)
-![Compose Dialogue Box](https://github.com/GauravSingh-2001/EasyMail/assets/105958066/391fb75d-46bb-46d0-97e4-1e410e3ae83d)
-![Contacts](https://github.com/GauravSingh-2001/EasyMail/assets/105958066/fb6c6481-76b3-4ba7-b10d-ef1e1e9465af)
-![Drafts](https://github.com/GauravSingh-2001/EasyMail/assets/105958066/a79e72be-a94f-4b49-9163-fedc6ee7299d)
+![mail preview](/public/assets/Screenshot(225).png)
+![Sent Mail](/public/assets/Screenshot(226).png)
+![Sent Mail Preview](/public/assets/Screenshot(227).png)
+![Compose Dialogue Box](/public/assets/Screenshot(228).png)
+![Contacts](/public/assets/Screenshot(229).png)
+![Drafts](/public/assets/Screenshot(230).png)
 
-![Bin](https://github.com/GauravSingh-2001/EasyMail/assets/105958066/79a07e54-a174-47b7-95c0-9bd51d10ef61)
+![Bin](/public/assets/Screenshot(231).png)
 
 ## Technologies Used
 
