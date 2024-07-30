@@ -11,7 +11,7 @@ The Easy Mail is a web-based tool designed to handle email functionalities secur
 - **User Interface:** Responsive design using React and Tailwind CSS for an optimal user experience.
   
 ## Screenshots
-![Inbox](https://github.com/GauravSingh-2001/Easy-Mail/public/assets/Screenshot(224).png)
+![Inbox](/public/assets/Screenshot(224).png)
 ![mail preview](https://github.com/GauravSingh-2001/EasyMail/assets/105958066/e4784825-eae2-491e-9067-ba9256ebbda3)
 ![Sent Mail](https://github.com/GauravSingh-2001/EasyMail/assets/105958066/7ef2f5aa-bd26-4227-a92a-11c1d39ac8c2)
 ![Sent Mail Preview](https://github.com/GauravSingh-2001/EasyMail/assets/105958066/3a012aa3-a1a2-419e-98ca-d49a1a968993)
