@@ -16,10 +16,11 @@ The Easy Mail is a web-based tool designed to handle email functionalities secur
 ![Sent Mail](/public/assets/Screenshot(226).png)
 ![Sent Mail Preview](/public/assets/Screenshot(227).png)
 ![Compose Dialogue Box](/public/assets/Screenshot(228).png)
-![Contacts](/public/assets/Screenshot(229).png)
-![Drafts](/public/assets/Screenshot(230).png)
-
-![Bin](/public/assets/Screenshot(231).png)
+![Starred Mails](/public/assets/Screenshot(229).png)
+![Contacts](/public/assets/Screenshot(230).png)
+![Drafts](/public/assets/Screenshot(231).png)
+![Spam](/public/assets/Screenshot(232).png)
+![Bin](/public/assets/Screenshot(233).png)
 
 ## Technologies Used
 
